@@ -1,0 +1,31 @@
+_repo: The-Life-of-Columbus--13-From-His-Own-Letters-and-Journals-and-Other-Documents-of-His-Time_1492
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hale, Edward Everett
+    aliases:
+    - Ingham, Frederic
+    - Darragh, J. Thomas
+    - Hale, E. E. (Edward Everett)
+    - Hale, Edward E.
+    birthdate: 1822
+    deathdate: 1909
+    gutenberg_agent_id: '650'
+    url: http://www.gutenberg.org/2009/agents/650
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Everett_Hale
+description: ''
+gutenberg_issued: '2006-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1492'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Columbus, Christopher'
+- !lcc 'E011'
+- GITenberg
+title: "The Life of Columbus\r\nFrom His Own Letters and Journals and Other Documents\
+  \ of His Time"
+url: http://www.gutenberg.org/ebooks/1492
